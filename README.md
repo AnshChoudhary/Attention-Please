@@ -81,3 +81,14 @@ Here’s what you’ll find in this repository:
 - **chatgpt_demo/**: A simple demo of how transformers power systems like ChatGPT.
 - **datasets/**: Sample datasets for training your own transformer models.
 
+## 🛠 Getting Started
+
+### Installation
+
+To get started, clone the repository and install the dependencies:
+
+```bash
+git clone https://github.com/YourUsername/AttentionPlease.git
+cd AttentionPlease
+pip install -r requirements.txt
+```
